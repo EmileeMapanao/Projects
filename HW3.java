@@ -1,5 +1,5 @@
 
-public class HW3 {
+public class VampireNumbers {
 	 /* @author Emilee Mapanao
 	 *  November 3, 2022
 	 *  Multi-threaded program to find all vampire numbers
@@ -112,6 +112,4 @@ class vampireNumberFinder implements Runnable {
 	public int getTotal() {
 		return total;
 	}
-					 
-
 }
